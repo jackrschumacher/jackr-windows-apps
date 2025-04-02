@@ -21,6 +21,6 @@
 * Notion (https://www.notion.com/desktop)
 * Todoist (https://www.todoist.com/downloads/windows)
 * Zotero (https://www.zotero.org/download/)
-* logi Options+ (https://www.logitech.com/en-us/software/logi-options-plus.html)
+* Logi Options+ (https://www.logitech.com/en-us/software/logi-options-plus.html)
 
 
