@@ -12,6 +12,7 @@
 * Discord (https://discord.com/download)
 ### Development
 * Warp (https://www.warp.dev)
+* Sourcetree (https://www.sourcetreeapp.com)
 ### Education
 * TI-Connect CE (https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware)
 ### Multimedia
@@ -22,5 +23,9 @@
 * Todoist (https://www.todoist.com/downloads/windows)
 * Zotero (https://www.zotero.org/download/)
 * Logi Options+ (https://www.logitech.com/en-us/software/logi-options-plus.html)
+### Utilities
+* Free File Sync (Supporter Version)
+* Hardware Info (https://www.hwinfo.com)
+
 
 
