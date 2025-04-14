@@ -1,5 +1,5 @@
 # README
-
+[![Release Drafter](https://github.com/jackrschumacher/jackr-windows-apps/actions/workflows/release-drafter.yml/badge.svg)](https://github.com/jackrschumacher/jackr-windows-apps/actions/workflows/release-drafter.yml)
 ## General Information
 * The configuration file located in this repository is for apps installed with the package manager Chocolatey.
 * The Other-Apps markdown file is for apps that should not be installed via Chocolatey due to auto updaters and such (web browsers,etc.)
